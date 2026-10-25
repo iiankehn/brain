@@ -24,6 +24,7 @@ Shared memory for Claude Code across CORE projects. This should be a
 | `decisions/LOG.md` | On demand | Dated decisions and why |
 | `learnings/` | On demand | CI and debugging lessons that cost time once |
 | `inbox/IDEAS.md` | On demand | Unsorted ideas and follow-ups |
+| `wiki/` | On demand | Engineering wiki (features, architecture, releases); mirrored to Notion |
 
 ## Updating
 

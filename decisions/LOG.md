@@ -2,6 +2,11 @@
 
 Newest first. One entry per decision: date, decision, why, where it applies.
 
+## 2026-10-25 — Engineering wiki in Notion
+The wiki's source is `brain/wiki/` (Markdown); Notion holds the readable copy,
+kept private at the workspace level, outside the public-facing "CORE by Iian
+Kehn" space. Why: searchable by Claude sessions and readable in Notion.
+
 ## 2026-10-25 — Shared brain for Claude Code
 Shared context lives in a private `brain` repo imported by each project's
 `CLAUDE.md`; repeatable per-project tasks are skills in each repo.

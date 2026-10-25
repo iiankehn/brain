@@ -46,6 +46,9 @@ template import.
   Conventional Commits (`feat:`, `fix:`, `ci:`, `release:`).
 - Look in `projects/<name>.md` before planning cross-cutting work and in
   `learnings/` before debugging CI.
+- `wiki/` is the engineering wiki, mirrored to Notion as "CORE Engineering
+  Wiki". When a feature, architecture or release process changes, update the
+  wiki page and its Notion copy in the same session.
 
 ## Keeping the brain current
 
